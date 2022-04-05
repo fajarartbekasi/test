@@ -13,6 +13,21 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
-.bg-purple-600{
-  background-color: rgba(27, 2, 70);
+.bg-violet-900{
+  background-color: rgb(76, 29, 149);
+}
+
+.text-cyan-400{
+    color: rgb(34,211,238);
+}
+
+.text-violet-900 {
+    color: rgb(76, 29, 149);
+}
+
+.rounded-full{
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 100%;
 }
